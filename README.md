@@ -1,10 +1,10 @@
-# Demographics of Time Poverty: An Analysis of Gender Disparity and Temporal Stability in U.S. Time Use (2020–2024)
+# Demographics of Time Poverty: An Analysis of Gender Disparity and Temporal Stability in U.S. Time Use (2020-2024)
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-blue)](paper/Demographics-of-Time-Poverty.pdf) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Abstract
 
-*This study assesses the gender disparity and temporal stability of time poverty using five years of pooled data (2020–2024) from the American Time Use Survey [(ATUS)](https://www.bls.gov/tus/). Time-poverty is rigorously defined as the intersection of insufficient time for necessary self-maintenance (Personal Care) and discretionary enjoyment (Leisure Time), quantified by the 25th percentile of each distribution. Pearson’s χ2 test and the Mantel-Haenszel (MH) test were employed to evaluate the hypotheses. Results show no statistically significant change in the absolute prevalence of time-poverty over the 2020–2024 period (χ2 = 3.25,p = 0.5176). However, a highly significant gender disparity exists, with the odds of a male being time-poor being 21.1% lower than for a female (Common OR =0.789; 95% CI: 0.733–0.850). These findings establish that time poverty is a stable, gendered phenomenon during this period.*
+*This study assesses the gender disparity and temporal stability of time poverty using five years of pooled data (2020-2024) from the American Time Use Survey [(ATUS)](https://www.bls.gov/tus/). Time-poverty is rigorously defined as the intersection of insufficient time for necessary self-maintenance (Personal Care) and discretionary enjoyment (Leisure Time), quantified by the 25th percentile of each distribution. Pearson’s χ2 test and the Mantel-Haenszel (MH) test were employed to evaluate the hypotheses. Results show no statistically significant change in the absolute prevalence of time-poverty over the 2020-2024 period (χ2 = 3.25,p = 0.5176). However, a highly significant gender disparity exists, with the odds of a male being time-poor being 21.1% lower than for a female (Common OR =0.789; 95% CI: 0.733-0.850). These findings establish that time poverty is a stable, gendered phenomenon during this period.*
 
 ## Paper
 
@@ -48,7 +48,7 @@ install.packages(c("ipumsr", "dplyr", "janitor"))
 
 ### Reproducibility Notes
 
-* Code was developed and tested using standard R environments.
+* Code was developed and tested using R version 4.5.2.
 * File paths and data locations may need to be updated depending on your local setup.
 
 ---
